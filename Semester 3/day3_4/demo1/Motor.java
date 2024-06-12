@@ -1,4 +1,4 @@
-package day3.demo1;
+package day3_4.demo1;
 
 public class Motor {
     

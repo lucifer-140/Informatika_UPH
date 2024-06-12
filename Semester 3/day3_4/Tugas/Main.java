@@ -1,4 +1,4 @@
-package day3.Tugas;
+package day3_4.Tugas;
 
 
 // static -> shows that method/atribut tsb milik class itu, bukan milik objek dari class tsb

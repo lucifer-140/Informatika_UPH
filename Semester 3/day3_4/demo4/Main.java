@@ -1,4 +1,4 @@
-package day3.demo4;
+package day3_4.demo4;
 
 class Hewan {
     void bersuara() {

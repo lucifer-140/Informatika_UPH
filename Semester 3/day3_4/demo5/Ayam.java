@@ -1,4 +1,4 @@
-package day3.demo5;
+package day3_4.demo5;
 
 public class Ayam extends Hewan {
     @Override

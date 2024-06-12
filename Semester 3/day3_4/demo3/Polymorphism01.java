@@ -1,4 +1,4 @@
-package day3.demo3;
+package day3_4.demo3;
 
 
 class Mahluk {

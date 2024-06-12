@@ -1,4 +1,4 @@
-package day3.demo2;
+package day3_4.demo2;
 
 // Demo class for testing
 public class PersegiPanjangEnkapsulasiDemo {
