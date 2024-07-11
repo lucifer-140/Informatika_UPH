@@ -1,6 +1,7 @@
 package day5.Tugas;
 
 // Abstract Class:
+// An abstract class in java is a list of variables and methods that help you make other classes. Abstract methods don't have code in them. 
 // KDrama -> Blueprint untuk semua jenis drama Korea, dengan properti/atribut yg umum kek: (judul, tahun rilis) dan method untuk menampilkan info
 
 // Class:
@@ -44,7 +45,7 @@ class KDramaInfo extends KDrama {
 
     @Override
     public void displayInfo() {
-        System.out.println("Romantic K-Drama Title: " + title);
+        System.out.println("K-Drama Title: " + title);
         System.out.println("Released: " + yearReleased);
         System.out.println("Lead Actor: " + leadActor);
         System.out.println("Lead Actress: " + leadActress);

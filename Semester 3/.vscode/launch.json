@@ -1,0 +1,322 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Kasir",
+            "request": "launch",
+            "mainClass": "kasirSQL.Kasir",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Kasir",
+            "request": "launch",
+            "mainClass": "kasir.Kasir",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "SimplifiedKasir",
+            "request": "launch",
+            "mainClass": "kasir.SimplifiedKasir",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Menghitung",
+            "request": "launch",
+            "mainClass": "Menghitung",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Kasir",
+            "request": "launch",
+            "mainClass": "Kasir",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "day11.tugas.DIP.Main",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "day11.tugas.ISP.Main",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "day11.tugas.LSP.Main",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "day11.tugas.NOT_SRP.Main",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "day11.tugas.OCP.Main",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "day11.tugas.SRP.Main",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main(6)",
+            "request": "launch",
+            "mainClass": "day12.demoGUI.Main",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main(7)",
+            "request": "launch",
+            "mainClass": "day3_4.Tugas.Main",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main(8)",
+            "request": "launch",
+            "mainClass": "day3_4.demo1.Main",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "PersegiPanjangEnkapsulasiDemo",
+            "request": "launch",
+            "mainClass": "day3_4.demo2.PersegiPanjangEnkapsulasiDemo",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphism01",
+            "request": "launch",
+            "mainClass": "day3_4.demo3.Polymorphism01",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main(9)",
+            "request": "launch",
+            "mainClass": "day3_4.demo4.Main",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Ayam",
+            "request": "launch",
+            "mainClass": "day3_4.demo5.Ayam",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "tugasAbstrak",
+            "request": "launch",
+            "mainClass": "day5.Tugas.tugasAbstrak",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "tugasInterface",
+            "request": "launch",
+            "mainClass": "day5.Tugas.tugasInterface",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "PesawatDemo",
+            "request": "launch",
+            "mainClass": "day5.demo1.PesawatDemo",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "TestPolymorphism",
+            "request": "launch",
+            "mainClass": "day6.Tugas.TestPolymorphism",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "LuasBeraksi",
+            "request": "launch",
+            "mainClass": "day6.demo1.LuasBeraksi",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Kijang",
+            "request": "launch",
+            "mainClass": "day6.demo2.Kijang",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Mobil",
+            "request": "launch",
+            "mainClass": "day7.demo1.Mobil",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Mobil(1)",
+            "request": "launch",
+            "mainClass": "day7.demo2.Mobil",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Siswa",
+            "request": "launch",
+            "mainClass": "day7.demo3.Siswa",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "MainProgram",
+            "request": "launch",
+            "mainClass": "day7.demo4.MainProgram",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "IsiData",
+            "request": "launch",
+            "mainClass": "day7.demo5.IsiData",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "MahasiswaEnkapsulasi",
+            "request": "launch",
+            "mainClass": "day7.demo6.MahasiswaEnkapsulasi",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Ayam(1)",
+            "request": "launch",
+            "mainClass": "day7.demo7.Ayam",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Ayam(2)",
+            "request": "launch",
+            "mainClass": "day7.demo8.Ayam",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "MainFilm",
+            "request": "launch",
+            "mainClass": "day8.uts.no11.MainFilm",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main(10)",
+            "request": "launch",
+            "mainClass": "day8.uts.no12.Main",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main(11)",
+            "request": "launch",
+            "mainClass": "day8.uts.no13.Main",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "mainbebek",
+            "request": "launch",
+            "mainClass": "day9.demo1.mainbebek",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "mainShare",
+            "request": "launch",
+            "mainClass": "day9.demo2.mainShare",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main(12)",
+            "request": "launch",
+            "mainClass": "day9.tugas.Main",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Manusia",
+            "request": "launch",
+            "mainClass": "demo1.Manusia",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main(13)",
+            "request": "launch",
+            "mainClass": "demo2.Main",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Pinherit_Ortu",
+            "request": "launch",
+            "mainClass": "demo3.Pinherit_Ortu",
+            "projectName": "Semester 3_f75689c3"
+        },
+        {
+            "type": "java",
+            "name": "Main(14)",
+            "request": "launch",
+            "mainClass": "demo4.Main",
+            "projectName": "Semester 3_f75689c3"
+        }
+    ]
+}
