@@ -1,0 +1,29 @@
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek1/bin/Debug/net8.0/LatihanPraktek1
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek1/bin/Debug/net8.0/LatihanPraktek1.deps.json
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek1/bin/Debug/net8.0/LatihanPraktek1.runtimeconfig.json
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek1/bin/Debug/net8.0/LatihanPraktek1.dll
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek1/bin/Debug/net8.0/LatihanPraktek1.pdb
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek1/obj/Debug/net8.0/LatihanPraktek1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek1/obj/Debug/net8.0/LatihanPraktek1.AssemblyInfoInputs.cache
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek1/obj/Debug/net8.0/LatihanPraktek1.AssemblyInfo.cs
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek1/obj/Debug/net8.0/LatihanPraktek1.csproj.CoreCompileInputs.cache
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek1/obj/Debug/net8.0/LatihanPraktek1.dll
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek1/obj/Debug/net8.0/refint/LatihanPraktek1.dll
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek1/obj/Debug/net8.0/LatihanPraktek1.pdb
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek1/obj/Debug/net8.0/LatihanPraktek1.genruntimeconfig.cache
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek1/obj/Debug/net8.0/ref/LatihanPraktek1.dll
+/Users/lucy/Developer/Projects/UPH/Semester 4/Latihan Praktek/LatihanPraktek1/bin/Debug/net8.0/LatihanPraktek1
+/Users/lucy/Developer/Projects/UPH/Semester 4/Latihan Praktek/LatihanPraktek1/bin/Debug/net8.0/LatihanPraktek1.deps.json
+/Users/lucy/Developer/Projects/UPH/Semester 4/Latihan Praktek/LatihanPraktek1/bin/Debug/net8.0/LatihanPraktek1.runtimeconfig.json
+/Users/lucy/Developer/Projects/UPH/Semester 4/Latihan Praktek/LatihanPraktek1/bin/Debug/net8.0/LatihanPraktek1.dll
+/Users/lucy/Developer/Projects/UPH/Semester 4/Latihan Praktek/LatihanPraktek1/bin/Debug/net8.0/LatihanPraktek1.pdb
+/Users/lucy/Developer/Projects/UPH/Semester 4/Latihan Praktek/LatihanPraktek1/obj/Debug/net8.0/LatihanPraktek1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucy/Developer/Projects/UPH/Semester 4/Latihan Praktek/LatihanPraktek1/obj/Debug/net8.0/LatihanPraktek1.AssemblyInfoInputs.cache
+/Users/lucy/Developer/Projects/UPH/Semester 4/Latihan Praktek/LatihanPraktek1/obj/Debug/net8.0/LatihanPraktek1.AssemblyInfo.cs
+/Users/lucy/Developer/Projects/UPH/Semester 4/Latihan Praktek/LatihanPraktek1/obj/Debug/net8.0/LatihanPraktek1.csproj.CoreCompileInputs.cache
+/Users/lucy/Developer/Projects/UPH/Semester 4/Latihan Praktek/LatihanPraktek1/obj/Debug/net8.0/LatihanPraktek1.sourcelink.json
+/Users/lucy/Developer/Projects/UPH/Semester 4/Latihan Praktek/LatihanPraktek1/obj/Debug/net8.0/LatihanPraktek1.dll
+/Users/lucy/Developer/Projects/UPH/Semester 4/Latihan Praktek/LatihanPraktek1/obj/Debug/net8.0/refint/LatihanPraktek1.dll
+/Users/lucy/Developer/Projects/UPH/Semester 4/Latihan Praktek/LatihanPraktek1/obj/Debug/net8.0/LatihanPraktek1.pdb
+/Users/lucy/Developer/Projects/UPH/Semester 4/Latihan Praktek/LatihanPraktek1/obj/Debug/net8.0/LatihanPraktek1.genruntimeconfig.cache
+/Users/lucy/Developer/Projects/UPH/Semester 4/Latihan Praktek/LatihanPraktek1/obj/Debug/net8.0/ref/LatihanPraktek1.dll

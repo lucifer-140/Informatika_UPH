@@ -1,0 +1,14 @@
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/AreaPerimeter/bin/Debug/net8.0/AreaPerimeter
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/AreaPerimeter/bin/Debug/net8.0/AreaPerimeter.deps.json
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/AreaPerimeter/bin/Debug/net8.0/AreaPerimeter.runtimeconfig.json
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/AreaPerimeter/bin/Debug/net8.0/AreaPerimeter.dll
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/AreaPerimeter/bin/Debug/net8.0/AreaPerimeter.pdb
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/AreaPerimeter/obj/Debug/net8.0/AreaPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/AreaPerimeter/obj/Debug/net8.0/AreaPerimeter.AssemblyInfoInputs.cache
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/AreaPerimeter/obj/Debug/net8.0/AreaPerimeter.AssemblyInfo.cs
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/AreaPerimeter/obj/Debug/net8.0/AreaPerimeter.csproj.CoreCompileInputs.cache
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/AreaPerimeter/obj/Debug/net8.0/AreaPerimeter.dll
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/AreaPerimeter/obj/Debug/net8.0/refint/AreaPerimeter.dll
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/AreaPerimeter/obj/Debug/net8.0/AreaPerimeter.pdb
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/AreaPerimeter/obj/Debug/net8.0/AreaPerimeter.genruntimeconfig.cache
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/AreaPerimeter/obj/Debug/net8.0/ref/AreaPerimeter.dll

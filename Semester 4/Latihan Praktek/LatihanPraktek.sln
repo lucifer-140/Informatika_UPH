@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanPraktek1", "LatihanPraktek1\LatihanPraktek1.csproj", "{6BA7C205-79BD-4DF5-9F29-9E887F0004C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanPraktek2", "LatihanPraktek2\LatihanPraktek2.csproj", "{849C853B-2DB6-43B8-9772-3D9DD6D2B597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanPraktek3", "LatihanPraktek3\LatihanPraktek3.csproj", "{F7B7DD4B-4F18-4B9D-8090-3779DCA1573F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA7C205-79BD-4DF5-9F29-9E887F0004C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA7C205-79BD-4DF5-9F29-9E887F0004C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA7C205-79BD-4DF5-9F29-9E887F0004C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA7C205-79BD-4DF5-9F29-9E887F0004C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{849C853B-2DB6-43B8-9772-3D9DD6D2B597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849C853B-2DB6-43B8-9772-3D9DD6D2B597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849C853B-2DB6-43B8-9772-3D9DD6D2B597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849C853B-2DB6-43B8-9772-3D9DD6D2B597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B7DD4B-4F18-4B9D-8090-3779DCA1573F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B7DD4B-4F18-4B9D-8090-3779DCA1573F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B7DD4B-4F18-4B9D-8090-3779DCA1573F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B7DD4B-4F18-4B9D-8090-3779DCA1573F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

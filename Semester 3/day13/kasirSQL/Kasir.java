@@ -23,7 +23,7 @@ public class Kasir extends JPanel {
             System.exit(1); 
         }
     }
-
+    
     private void initComponents() {
         namaBarangLabel = new JLabel("Nama Barang:");
         hargaBarangLabel = new JLabel("Harga Barang:");

@@ -1,0 +1,14 @@
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek2/bin/Debug/net8.0/LatihanPraktek2
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek2/bin/Debug/net8.0/LatihanPraktek2.deps.json
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek2/bin/Debug/net8.0/LatihanPraktek2.runtimeconfig.json
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek2/bin/Debug/net8.0/LatihanPraktek2.dll
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek2/bin/Debug/net8.0/LatihanPraktek2.pdb
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek2/obj/Debug/net8.0/LatihanPraktek2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek2/obj/Debug/net8.0/LatihanPraktek2.AssemblyInfoInputs.cache
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek2/obj/Debug/net8.0/LatihanPraktek2.AssemblyInfo.cs
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek2/obj/Debug/net8.0/LatihanPraktek2.csproj.CoreCompileInputs.cache
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek2/obj/Debug/net8.0/LatihanPraktek2.dll
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek2/obj/Debug/net8.0/refint/LatihanPraktek2.dll
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek2/obj/Debug/net8.0/LatihanPraktek2.pdb
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek2/obj/Debug/net8.0/LatihanPraktek2.genruntimeconfig.cache
+/Users/lucy/Developer/Projects/Language/CSHARP/CalculateAreaPerimeter/LatihanPraktek2/obj/Debug/net8.0/ref/LatihanPraktek2.dll
