@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\lucy\\source\\repos\\MyFirstAppWindows\\",
@@ -37,4 +38,45 @@
       ]
     }
   ]
+=======
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucy\\source\\repos\\MyFirstAppWindows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1E804B-D9E4-443C-B3FD-E723470732B5}|MyFirstAppWindows\\MyFirstAppWindows.csproj|c:\\users\\lucy\\source\\repos\\myfirstappwindows\\myfirstappwindows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B1E804B-D9E4-443C-B3FD-E723470732B5}|MyFirstAppWindows\\MyFirstAppWindows.csproj|solutionrelative:myfirstappwindows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lucy\\source\\repos\\MyFirstAppWindows\\MyFirstAppWindows\\Form1.cs",
+              "RelativeDocumentMoniker": "MyFirstAppWindows\\Form1.cs",
+              "ToolTip": "C:\\Users\\lucy\\source\\repos\\MyFirstAppWindows\\MyFirstAppWindows\\Form1.cs [Design]",
+              "RelativeToolTip": "MyFirstAppWindows\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:54:13.79Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+>>>>>>> refs/remotes/origin/main
 }

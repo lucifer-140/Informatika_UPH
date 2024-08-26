@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "PXn5KLJXT+c=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\lucy\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "PXn5KLJXT+c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucy\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> refs/remotes/origin/main
 }
