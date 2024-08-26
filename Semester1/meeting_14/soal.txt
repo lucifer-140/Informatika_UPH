@@ -1,0 +1,64 @@
+exercises-1:
+sumber file: daftar_nama_peserta.txt
+buat script dengan python untuk membaca dan menghasilkan file dengan nama file yang sama, 
+tapi dengan isi nama yang sudah terurut dan tambahkan no urut untuk setiap baris.
+
+
+exercises-2:
+sumber file: source_1.txt dan source_2.txt
+buat script dengan python untuk membaca isi dari dua file sumber tsb(source_1.txt dan source_2.txt) 
+dan menghasilkan file dengan nama file output.txt, dengan isi file berupa hasil penyaringan dari kedua file sumber 
+dan hanya menyisakan nama-nama yang uniq yang sudah terurut 
+dan tambahkan no urut untuk setiap baris.
+
+
+exercises-3:
+sumber file: user_json_1.json dan user_level.csv
+buat script dengan python, login script,
+ketika login, input Id dan password (module: getpass)
+
+Id ? 
+Password ? 
+
+jika gagal login (salah id, atau salah password, tampilkan pesan gagal login)
+jika sukses login, 
+
+tampilkan menu: 
+
+Hi, {login name} [{level desc}], LogIn at. {datetime saat login}
+
+1. show users  
+2. logout 
+3. exit program
+
+jika dipilih menu 1, 
+
+tampilkan user list, dengan bentuk output pada layar sbb:
+
+--------------------------------------------------------------------------------------------------------
+Id              | Nama                           | Level Description              | Created On
+--------------------------------------------------------------------------------------------------------
+root            | Root                           | Administrator                  | 26/11/2023 09:10:02
+--------------------------------------------------------------------------------------------------------
+admin           | Administrator                  | Administrator                  | 26/11/2023 11:11:11
+--------------------------------------------------------------------------------------------------------
+budi            | Budi                           | User                           | 26/11/2023 13:41:11
+--------------------------------------------------------------------------------------------------------
+anders          | Anders Hejlsberg               | Supervisor                     | 26/11/2023 14:28:01
+--------------------------------------------------------------------------------------------------------
+james           | James Gosling                  | Supervisor                     | 26/11/2023 15:20:10
+--------------------------------------------------------------------------------------------------------
+larry           | Larry Page                     | Supervisor                     | 26/11/2023 17:15:22
+--------------------------------------------------------------------------------------------------------
+linus           | Linus Torvalds                 | Supervisor                     | 27/11/2023 09:30:05
+--------------------------------------------------------------------------------------------------------
+
+jika dipilih menu 2,
+logout user saat ini, kembali ke menu login
+
+jika dipilih menu 3, 
+keluar dari program  
+
+
+
+

@@ -1,0 +1,22 @@
+NO, NIM, NAMA, BENAR, SALAH, SCORE, STATUS
+1, 03082230029, AnthonyTanoto, 16, 4, 80, Excellent
+2, 03082230019, Bryan cen, 15, 5, 75, Good
+3, 03082230018, CarlosSalim, 13, 7, 65, Good
+4, 03082230010, Charlene Tanata, 17, 3, 85, Excellent
+5, 03082230016, Chelsy Chrisella Yanadi, 16, 4, 80, Excellent
+6, 03082230030, Dave, 15, 5, 75, Good
+7, 03082230027, Elwin Willis, 15, 5, 75, Good
+8, 03082230015, Felicia Alexandra, 18, 2, 90, Excellent
+9, 03082230022, FraderikS, 13, 7, 65, Good
+10, 03082230031, Jonathan Alexander, 13, 7, 65, Good
+11, 03082230033, Kendric Tristan, 16, 4, 80, Excellent
+12, 03082230025, Kevin, 10, 10, 50, Fail
+13, 03082230003, MansonLie, 16, 4, 80, Excellent
+14, 03082230005, Misellin Mindany, 15, 5, 75, Good
+15, 03082230012, Patrick Ivander Angkasa, 14, 6, 70, Good
+16, 03082230001, Randy Liminson, 11, 9, 55, Fail
+17, 03082230009, Richard, 17, 3, 85, Excellent
+18, 03082230002, Vanessa Ng, 13, 7, 65, Good
+19, 03082230020, alsando phrn, 14, 6, 70, Good
+20, 03082230028, harryowen, 16, 4, 80, Excellent
+21, 03082230021, vincent, 8, 12, 40, Fail

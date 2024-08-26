@@ -1,0 +1,51 @@
+[
+    {
+        "Id": "root",
+        "Nama": "Root",
+        "LevelId": 1,
+        "Password ": "toor",
+	    "CreatedOn": "26/11/2023 09:10:02"
+    },
+    {
+        "Id": "admin",
+        "Nama": "Administrator",
+        "LevelId": 1,
+        "Password ": "admin123",
+	    "CreatedOn": "26/11/2023 11:11:11"
+    },
+    {
+        "Id": "budi",
+        "Nama": "Budi",
+        "LevelId": 3,
+        "Password ": "idub",
+	    "CreatedOn": "26/11/2023 13:41:11"
+    },
+    {
+        "Id": "anders",
+        "Nama": "Anders Hejlsberg",
+        "LevelId": 2,
+        "Password ": "789!abc",
+	    "CreatedOn": "26/11/2023 14:28:01"
+    },
+    {
+        "Id": "james",
+        "Nama": "James Gosling",
+        "LevelId": 2,       
+        "Password ": "james",
+	    "CreatedOn": "26/11/2023 15:20:10"
+    },
+    {
+        "Id": "larry",
+        "Nama": "Larry Page",
+        "LevelId": 2,
+        "Password ": "page",
+	    "CreatedOn": "26/11/2023 17:15:22"
+    },
+    {
+        "Id": "linus",
+        "Nama": "Linus Torvalds",
+        "LevelId": 2,
+        "Password ": "linux",
+	    "CreatedOn": "27/11/2023 09:30:05"
+    }
+]

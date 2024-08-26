@@ -1,0 +1,37 @@
+[
+   {
+      "nim": "0001",
+      "nama": "Budi",
+      "tugas": 100,
+      "uts": 100,
+      "uas": 100
+   },
+   {
+      "nim": "0002",
+      "nama": "Gunawan",
+      "tugas": 85,
+      "uts": 80,
+      "uas": 95
+   },
+   {
+      "nim": "0003",
+      "nama": "Susan",
+      "tugas": 90,
+      "uts": 85,
+      "uas": 95
+   },
+   {
+      "nim": "0004",
+      "nama": "Robert",
+      "tugas": 95,
+      "uts": 95,
+      "uas": 80
+   },
+   {
+      "nim": "0005",
+      "nama": "James Bond",
+      "tugas": 75,
+      "uts": 100,
+      "uas": 85
+   }
+] 
