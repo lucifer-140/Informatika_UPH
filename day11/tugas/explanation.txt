@@ -1,0 +1,44 @@
+Single Responsibility Principle (SRP)
+
+OrderNotSRP (sebelumnya): Kelas ini memiliki terlalu banyak tanggung jawab:
+-> addItem(Item item) (void): Menambahkan item ke pesanan.
+-> deleteItem(Item item) (void): Menghapus item dari pesanan.
+-> getItemCount() (mengembalikan int): Mendapatkan jumlah item dalam pesanan.
+-> getItems() (mengembalikan List<Item>): Mendapatkan semua item dalam pesanan.
+-> calculateTotalSum() (mengembalikan double): Menghitung total biaya pesanan.
+-> printOrder() (void): Mencetak representasi terformat dari pesanan.
+-> showOrder() (void): Menampilkan tampilan yang lebih sederhana dari pesanan.
+-> getDailyHistory() & getMonthlyHistory() (mengembalikan List<OrderNotSRP>): Mengambil riwayat pesanan.
+
+Order, SimpleOrderPrinter, SimpleOrderDisplayer, OrderHistory (setelahnya): Setiap kelas sekarang memiliki satu tanggung jawab yang terfokus:
+-> Order: Mengelola item dan menghitung total.
+-> SimpleOrderPrinter: Mencetak representasi terformat dari pesanan.
+-> SimpleOrderDisplayer: Menampilkan tampilan yang lebih sederhana dari pesanan.
+-> OrderHistory: Menangani pengambilan data riwayat pesanan.
+
+----
+
+Open/Closed Principle (OCP)
+
+-> OrderNotSRP (sebelumnya): Kelas tidak terbuka untuk perluasan tanpa modifikasi. Menambahkan cara baru untuk menampilkan atau mencetak pesanan akan memerlukan perubahan pada kelas ini.
+-> Kode yang direfaktor (setelahnya): Menggunakan antarmuka (OrderPrinter, OrderDisplayer) untuk mendefinisikan kontrak. Kelas baru dapat mengimplementasikan antarmuka ini untuk menyediakan format tampilan atau cetak yang berbeda tanpa memodifikasi kode yang ada.
+
+----
+
+Liskov Substitution Principle (LSP)
+
+-> Tidak dapat diterapkan secara langsung: LSP terutama tentang pewarisan dan hubungan subtipe, yang bukan merupakan bagian utama dari kode ini. Namun, penggunaan antarmuka dalam kode yang direfaktor mengikuti LSP dengan memungkinkan implementasi yang berbeda untuk digunakan secara bergantian.
+
+----
+
+Interface Segregation Principle (ISP)
+
+-> OrderNotSRP (sebelumnya): Semua tindakan terkait pesanan ada dalam satu kelas, meskipun beberapa klien (seperti kelas Main) mungkin tidak memerlukan semua tindakan tersebut.
+-> OrderPrinter & OrderDisplayer (setelahnya): Dengan memisahkan menjadi antarmuka terpisah, Anda hanya mengimplementasikan metode yang Anda butuhkan. Misalnya, jika Anda hanya ingin menampilkan pesanan, Anda tidak perlu mengimplementasikan logika pencetakan.
+
+----
+
+Dependency Inversion Principle (DIP)
+
+-> OrderNotSRP (sebelumnya): Kelas Main bergantung langsung pada kelas OrderNotSRP.
+-> Main, OrderPrinter, OrderDisplayer (setelahnya): Kelas Main sekarang bergantung pada antarmuka OrderPrinter dan OrderDisplayer (modul tingkat tinggi), bukan kelas implementasi spesifik. Ini mengurangi ketergantungan dan membuatnya lebih mudah untuk mengubah implementasi viewer atau printer tanpa mempengaruhi kelas Main.
