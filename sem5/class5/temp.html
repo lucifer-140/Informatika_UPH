@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Website</title>
+    <style>
+
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            line-height: 1.6;
+            color: #333;
+            text-align: center;
+        }
+        footer {
+            background-color: #000000;
+            color: #fff;
+            padding: 2rem;
+            text-align: center;
+        }
+
+        header {
+            background-color: #2b77b1;
+            color: #fff;
+            padding: 2rem;
+            text-align: center;
+        }
+
+
+
+        .container {
+            width: 90%;
+            margin: 50px auto;
+            display: flex;
+            justify-content: center;
+        }
+
+        .row {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .row > div {
+            background-color: #3d950d;
+            height: 200px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 15px;
+            padding: 45px;
+            color: #fff;
+        }
+
+        @media screen and (max-width: 1000px) {
+            .row > div {
+                width: 40%;
+            }
+        }
+
+        @media screen and (max-width: 620px) {
+            .container {
+                width: 100%;
+                margin-bottom: 20px;
+            }
+
+            .row div {
+                width: 80%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Website Sederhana</h1>
+    </header>
+    
+    <div class="container">
+        <div class="row">
+            <div>Box 1</div>
+            <div>Box 2</div>
+            <div>Box 3</div>
+            <div>Box 4</div>
+            <div>Box 5</div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Wesite serderhana</p>
+    </footer>
+</body>
+</html>

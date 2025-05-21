@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <h2>Student List</h2>
+        <input type="text" id="studentName" placeholder="Enter name">
+        <button onclick="addStudent()">Add</button>
+        <ul id="studentList"></ul>
+        <script type="text/javascript">
+            function addStudent() {
+                var name = document.getElementById("studentName").value;
+            
+                if (name.trim() !== "") {
+                    var li = document.createElement("li");
+                    li.textContent = name;  
+                    document.getElementById("studentList").appendChild(li);
+                    document.getElementById("studentName").value = "";
+                }
+            }        
+        </script>
+    </body>
+</html>
