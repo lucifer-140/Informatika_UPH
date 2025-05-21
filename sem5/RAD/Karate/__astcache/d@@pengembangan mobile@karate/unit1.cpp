@@ -1,0 +1,173 @@
+﻿//---------------------------------------------------------------------------
+
+#include <fmx.h>
+#pragma hdrstop
+
+#include "Unit1.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.fmx"
+TForm1 *Form1;
+//---------------------------------------------------------------------------
+__fastcall TForm1::TForm1(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::FormCreate(TObject *Sender)
+{
+	UnicodeString Folder="..\\..\\KarateImages\\";
+
+	//pengaturan engine
+	VScreen.Width=800;
+	VScreen.Height=600;
+	VScreen.BytesPerPixel=4;
+	VScreen.BitsPerPixel=32;
+	VScreen.PixelFormat=TPixelFormat::BGRA;
+
+	Back.BytesPerPixel=4;
+	Back.BitsPerPixel=32;
+	Back.PixelFormat=TPixelFormat::BGRA;
+
+	if (Screen->Width<Screen->Height) {   //Antisipasi untuk hape
+	  FitWidth=Screen->Height;
+	  FitHeight=Screen->Width;
+	} else {                              //Antisipasi untuk tablet
+	  FitWidth=Screen->Width;
+	  FitHeight=Screen->Height;
+	}
+
+	if (FitWidth-VScreen.Width < FitHeight-VScreen.Height) Scale=FitWidth/VScreen.Width;
+	else Scale=FitHeight*1.0/VScreen.Height;
+	ImgView->BitmapScale=Scale;
+
+	Bitmap=new TBitmap;
+	LoadImageFromFile(&Back, Folder+"Back.bmp");
+
+
+
+	LoadImageFromFile(&Karateka[0][0], Folder+"Stand0.bmp"); //pose 0 = stance
+
+
+
+	SprPose=1;  //move forward
+	LoadImageFromFile(&Karateka[SprPose][0], Folder+"Stand0.bmp");
+	LoadImageFromFile(&Karateka[SprPose][1], Folder+"Stand1.bmp");
+	LoadImageFromFile(&Karateka[SprPose][2], Folder+"Stand2.bmp");
+
+
+
+	SprPose=2;  //move backward
+	LoadImageFromFile(&Karateka[SprPose][0], Folder+"Stand2.bmp");
+	LoadImageFromFile(&Karateka[SprPose][1], Folder+"Stand0.bmp");
+	LoadImageFromFile(&Karateka[SprPose][2], Folder+"Stand1.bmp");
+
+
+
+	SprPose=3;  //high and mid block
+	LoadImageFromFile(&Karateka[SprPose][0], Folder+"BlockHigh.bmp");
+
+
+
+	SprPose=4;  //low block
+	LoadImageFromFile(&Karateka[SprPose][0], Folder+"BlockLow.bmp");
+
+
+
+	SprPose=5;  //high punch
+	LoadImageFromFile(&Karateka[SprPose][0], Folder+"Punch.bmp");
+	LoadImageFromFile(&Karateka[SprPose][1], Folder+"PunchHigh.bmp");
+	LoadImageFromFile(&Karateka[SprPose][2], Folder+"Punch.bmp");
+
+
+
+	SprPose=6;  //mid punch
+	LoadImageFromFile(&Karateka[SprPose][0], Folder+"Punch.bmp");
+	LoadImageFromFile(&Karateka[SprPose][1], Folder+"PunchMid.bmp");
+	LoadImageFromFile(&Karateka[SprPose][2], Folder+"Punch.bmp");
+
+
+
+	SprPose=7;  //low punch
+	LoadImageFromFile(&Karateka[SprPose][0], Folder+"Punch.bmp");
+	LoadImageFromFile(&Karateka[SprPose][1], Folder+"PunchLow.bmp");
+	LoadImageFromFile(&Karateka[SprPose][2], Folder+"Punch.bmp");
+
+
+
+	SprPose=8;  //high left kick
+	LoadImageFromFile(&Karateka[SprPose][0], Folder+"LeftKick0.bmp");
+	LoadImageFromFile(&Karateka[SprPose][1], Folder+"LeftKick1.bmp");
+	LoadImageFromFile(&Karateka[SprPose][2], Folder+"LeftKickHigh.bmp");
+	LoadImageFromFile(&Karateka[SprPose][3], Folder+"LeftKick1.bmp");
+	LoadImageFromFile(&Karateka[SprPose][4], Folder+"LeftKick0.bmp");
+
+
+
+	SprPose=9;  //mid left kick
+	LoadImageFromFile(&Karateka[SprPose][0], Folder+"LeftKick0.bmp");
+	LoadImageFromFile(&Karateka[SprPose][1], Folder+"LeftKick1.bmp");
+	LoadImageFromFile(&Karateka[SprPose][2], Folder+"LeftKickMid.bmp");
+	LoadImageFromFile(&Karateka[SprPose][3], Folder+"LeftKick1.bmp");
+	LoadImageFromFile(&Karateka[SprPose][4], Folder+"LeftKick0.bmp");
+
+
+
+	SprPose=10; //low left kick
+	LoadImageFromFile(&Karateka[SprPose][0], Folder+"LeftKick0.bmp");
+	LoadImageFromFile(&Karateka[SprPose][1], Folder+"LeftKick1.bmp");
+	LoadImageFromFile(&Karateka[SprPose][2], Folder+"LeftKickLow.bmp");
+	LoadImageFromFile(&Karateka[SprPose][3], Folder+"LeftKick1.bmp");
+	LoadImageFromFile(&Karateka[SprPose][4], Folder+"LeftKick0.bmp");
+
+
+
+	SprPose=11; //high right kick
+	LoadImageFromFile(&Karateka[SprPose][0], Folder+"RightKick0.bmp");
+	LoadImageFromFile(&Karateka[SprPose][1], Folder+"RightKick1.bmp");
+	LoadImageFromFile(&Karateka[SprPose][2], Folder+"RightKickHigh.bmp");
+	LoadImageFromFile(&Karateka[SprPose][3], Folder+"RightKick1.bmp");
+	LoadImageFromFile(&Karateka[SprPose][4], Folder+"RightKick0.bmp");
+
+
+
+	SprPose=12; //mid right kick
+	LoadImageFromFile(&Karateka[SprPose][0], Folder+"RightKick0.bmp");
+	LoadImageFromFile(&Karateka[SprPose][1], Folder+"RightKick1.bmp");
+	LoadImageFromFile(&Karateka[SprPose][2], Folder+"RightKickMid.bmp");
+	LoadImageFromFile(&Karateka[SprPose][3], Folder+"RightKick1.bmp");
+	LoadImageFromFile(&Karateka[SprPose][4], Folder+"RightKick0.bmp");
+
+
+
+	SprPose=13; //low right kick
+	LoadImageFromFile(&Karateka[SprPose][0], Folder+"RightKick0.bmp");
+	LoadImageFromFile(&Karateka[SprPose][1], Folder+"RightKick1.bmp");
+	LoadImageFromFile(&Karateka[SprPose][2], Folder+"RightKickLow.bmp");
+	LoadImageFromFile(&Karateka[SprPose][3], Folder+"RightKick1.bmp");
+	LoadImageFromFile(&Karateka[SprPose][4], Folder+"RightKick0.bmp");
+
+
+
+	AllocateObjectMemory(&VScreen);
+	Bitmap->Width=VScreen.Width;
+	Bitmap->Height=VScreen.Height;
+
+
+
+	SprPose=SprNo=0;
+	xKarate=0;
+	yKarate=400;
+	BoxLimit=Screen->Height/7;
+
+
+
+	  //First frame
+	CopyScreen(&Back, &VScreen);       //copy latar ke Virtual Screen
+	PutImage(&Karateka[SprPose][SprNo], xKarate, yKarate, &VScreen); //putimage here
+	ImgDataToBitmap(&VScreen, Bitmap); //copy Virtual Screen ke Bitmap
+	ImgView->Bitmap=Bitmap;            //tampilkan Bitmap ke ImgView
+
+
+}
+//---------------------------------------------------------------------------

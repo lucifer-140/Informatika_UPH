@@ -1,0 +1,66 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Z'
+  ClientHeight = 738
+  ClientWidth = 384
+  Position = Designed
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Label1: TLabel
+    Position.X = 80.000000000000000000
+    Position.Y = 88.000000000000000000
+    Size.Width = 120.000000000000000000
+    Size.Height = 17.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Masukkan Alas'
+    TabOrder = 0
+  end
+  object Label2: TLabel
+    Position.X = 80.000000000000000000
+    Position.Y = 159.000000000000000000
+    Text = 'Masukan Tinggi'
+    TabOrder = 1
+  end
+  object Label3: TLabel
+    Position.X = 80.000000000000000000
+    Position.Y = 320.000000000000000000
+    Text = 'Luasnya adalah'
+    TabOrder = 2
+  end
+  object Edit1: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 3
+    Text = '0'
+    Position.X = 216.000000000000000000
+    Position.Y = 88.000000000000000000
+  end
+  object Edit2: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 4
+    Text = '0'
+    Position.X = 216.000000000000000000
+    Position.Y = 159.000000000000000000
+  end
+  object Edit3: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 5
+    Text = '0'
+    Position.X = 216.000000000000000000
+    Position.Y = 320.000000000000000000
+  end
+  object Button1: TButton
+    Position.X = 104.000000000000000000
+    Position.Y = 242.000000000000000000
+    TabOrder = 6
+    Text = 'Hitung'
+  end
+  object Button2: TButton
+    Position.X = 192.000000000000000000
+    Position.Y = 242.000000000000000000
+    TabOrder = 7
+    Text = 'Kosongkan'
+  end
+end

@@ -1,0 +1,70 @@
+inherited Form1_LgXhdpiPh: TForm1_LgXhdpiPh
+  ClientHeight = 694
+  ClientWidth = 450
+  DesignerMasterStyle = 0
+  inherited PMakanan: TPanel
+    Align = Fit
+    Size.Width = 450.000000000000000000
+    Size.Height = 202.131118774414100000
+    inherited Label1: TLabel
+      Align = Fit
+      Size.Width = 450.000000000000000000
+    end
+    inherited ChkNasi: TCheckBox
+      Align = Fit
+      Size.Width = 450.000061035156300000
+      Size.Height = 71.249992370605470000
+      Size.PlatformDefault = False
+    end
+    inherited ChkAyam: TCheckBox
+      Align = Fit
+      Size.Width = 450.000061035156300000
+      Size.Height = 71.249992370605470000
+      Size.PlatformDefault = False
+    end
+    inherited ChkSayur: TCheckBox
+      Align = Fit
+      Size.Width = 450.000061035156300000
+      Size.Height = 71.249992370605470000
+      Size.PlatformDefault = False
+    end
+  end
+  inherited PMinuman: TPanel
+    Align = Fit
+    Size.Width = 450.000000000000000000
+    Size.Height = 202.131118774414100000
+    inherited Label2: TLabel
+      Align = Fit
+      Size.Width = 450.000000000000000000
+    end
+    inherited RBAir: TCheckBox
+      Align = Fit
+      Size.Width = 450.000061035156300000
+    end
+    inherited RBJus: TCheckBox
+      Align = Fit
+      Size.Width = 450.000061035156300000
+    end
+    inherited RBKopi: TCheckBox
+      Align = Fit
+      Size.Width = 450.000061035156300000
+    end
+  end
+  inherited BtnPesan: TButton
+    Align = Fit
+    Size.Width = 450.000000000000000000
+    Size.Height = 48.848693847656250000
+  end
+  inherited BtnKosongkan: TButton
+    Align = Fit
+    Size.Width = 450.000000000000000000
+    Size.Height = 48.848693847656250000
+  end
+  inherited TxtPesanan: TMemo
+    Align = Fit
+    Size.Width = 450.000000000000000000
+    Size.Height = 390.789520263671900000
+    Viewport.Width = 450.000000000000000000
+    Viewport.Height = 390.800000000000000000
+  end
+end

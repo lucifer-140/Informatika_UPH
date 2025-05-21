@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="60dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="8dp"
+        android:text="Pilih Makanan"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <CheckBox
+        android:id="@+id/cbNasi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nasi Putih" />
+
+    <CheckBox
+        android:id="@+id/cbAyam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ayam Goreng" />
+
+    <CheckBox
+        android:id="@+id/cbSayur"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sayur" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:paddingBottom="8dp"
+        android:text="Pilih Minuman"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <CheckBox
+        android:id="@+id/cbAir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Air Putih" />
+
+    <CheckBox
+        android:id="@+id/cbJus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jus" />
+
+    <CheckBox
+        android:id="@+id/cbKopi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kopi" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingTop="16dp">
+
+        <Button
+            android:id="@+id/btnPesan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="Pesan" />
+
+        <Button
+            android:id="@+id/btnKosongkan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:padding="8dp"
+            android:text="Kosongkan" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvReceipt"
+        android:layout_width="match_parent"
+        android:layout_height="258dp"
+        android:layout_marginTop="16dp"
+        android:background="#E0E0E0"
+        android:padding="16dp"
+        android:text="Makanan:\n----------------\nMinuman:\n----------------"
+        android:textSize="16sp" />
+
+
+</LinearLayout>

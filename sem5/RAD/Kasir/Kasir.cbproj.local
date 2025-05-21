@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/01/11 16:28:20.000.436,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/01/11 16:28:20.000.542,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/01/13 10:54:58.000.130,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Kasir\KasirPCH1.h</Transaction>
+    <Transaction>2025/01/13 10:54:58.000.145,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Kasir\Kasir.cbproj</Transaction>
+    <Transaction>2025/01/13 10:54:58.000.116,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Kasir\Unit1.fmx</Transaction>
+    <Transaction>2025/01/13 10:54:58.000.116,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Kasir\Unit1.h</Transaction>
+    <Transaction>2025/01/13 10:54:58.000.115,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Kasir\Unit1.cpp</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="emulator-5554"/>
+	</ActiveMobileDevice>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>

@@ -1,0 +1,49 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit1H
+#define Unit1H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <FMX.Controls.hpp>
+#include <FMX.Forms.hpp>
+#include <FMX.Controls.Presentation.hpp>
+#include <FMX.Layouts.hpp>
+#include <FMX.ListBox.hpp>
+#include <FMX.StdCtrls.hpp>
+#include <FMX.Types.hpp>
+#include <FMX.Edit.hpp>
+//---------------------------------------------------------------------------
+class TForm1 : public TForm
+{
+__published:	// IDE-managed Components
+	TPanel *Panel1;
+	TListBox *Lst;
+	TComboBox *Cmb;
+	TListBoxItem *ListBoxItem1;
+	TListBoxItem *ListBoxItem2;
+	TListBoxItem *ListBoxItem3;
+	TLabel *Label1;
+	TLabel *Label2;
+	TLabel *Label3;
+	TEdit *TxtJlh;
+	TEdit *TxtData;
+	TEdit *TxtPos;
+	TButton *BtnTambah;
+	TButton *BtnUbah;
+	TButton *BtnHapus;
+	TButton *BtnSisip;
+	void __fastcall BtnSisipClick(TObject *Sender);
+	void __fastcall CmbChange(TObject *Sender);
+	void __fastcall BtnTambahClick(TObject *Sender);
+	void __fastcall LstClick(TObject *Sender);
+	void __fastcall BtnUbahClick(TObject *Sender);
+	void __fastcall BtnHapusClick(TObject *Sender);
+private:
+	int pos;	// User declarations
+public:		// User declarations
+	__fastcall TForm1(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TForm1 *Form1;
+//---------------------------------------------------------------------------
+#endif

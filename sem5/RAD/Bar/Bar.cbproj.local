@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/01/18 16:37:30.000.932,=C:\Users\edww9\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/01/18 16:37:31.000.079,=C:\Users\edww9\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/01/18 16:38:08.000.080,C:\Users\edww9\UPH_05\AplikasiMobile\Lesson_02\Tugas04_Bar\Unit1.cpp=C:\Users\edww9\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/01/18 16:38:08.000.080,C:\Users\edww9\UPH_05\AplikasiMobile\Lesson_02\Tugas04_Bar\Unit1.fmx=C:\Users\edww9\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2025/01/18 16:38:08.000.080,C:\Users\edww9\UPH_05\AplikasiMobile\Lesson_02\Tugas04_Bar\Unit1.h=C:\Users\edww9\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2025/01/18 16:38:08.000.130,C:\Users\edww9\UPH_05\AplikasiMobile\Lesson_02\Tugas04_Bar\Bar.cbproj=C:\Users\edww9\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2025/01/18 16:38:08.000.101,C:\Users\edww9\UPH_05\AplikasiMobile\Lesson_02\Tugas04_Bar\BarPCH1.h=C:\Users\edww9\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/01/18 16:38:11.000.533,C:\Users\edww9\UPH_05\AplikasiMobile\Lesson_02\Tugas04_Bar\FormMain.h=C:\Users\edww9\UPH_05\AplikasiMobile\Lesson_02\Tugas04_Bar\Unit1.h</Transaction>
+    <Transaction>2025/01/18 16:38:11.000.533,C:\Users\edww9\UPH_05\AplikasiMobile\Lesson_02\Tugas04_Bar\FormMain.cpp=C:\Users\edww9\UPH_05\AplikasiMobile\Lesson_02\Tugas04_Bar\Unit1.cpp</Transaction>
+    <Transaction>2025/01/18 16:38:11.000.533,C:\Users\edww9\UPH_05\AplikasiMobile\Lesson_02\Tugas04_Bar\FormMain.fmx=C:\Users\edww9\UPH_05\AplikasiMobile\Lesson_02\Tugas04_Bar\Unit1.fmx</Transaction>
+  </Transactions>  <ActiveMobileDevice>   <NoProfile Android="emulator-5554"/>
+  </ActiveMobileDevice>
+</BorlandProject>

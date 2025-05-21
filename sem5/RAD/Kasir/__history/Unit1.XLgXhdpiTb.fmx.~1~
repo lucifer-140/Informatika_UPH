@@ -1,0 +1,9 @@
+inherited Form1_XLgXhdpiTb: TForm1_XLgXhdpiTb
+  ClientHeight = 1254
+  ClientWidth = 800
+  DesignerMasterStyle = 0
+  inherited Memo1: TMemo
+    Viewport.Width = 304.000000000000000000
+    Viewport.Height = 164.000000000000000000
+  end
+end

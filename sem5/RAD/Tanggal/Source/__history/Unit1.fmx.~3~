@@ -1,0 +1,117 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 576
+  ClientWidth = 392
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Label1: TLabel
+    Align = Top
+    Anchors = [akLeft, akTop]
+    Size.Width = 392.000000000000000000
+    Size.Height = 33.000000000000000000
+    Size.PlatformDefault = False
+    StyleLookup = 'Label1Style1'
+    TextSettings.HorzAlign = Center
+    Text = 'Pilih Tanggal'
+    TabOrder = 0
+  end
+  object DatePicker: TDateEdit
+    Date = 45675.000000000000000000
+    Format = 'dddd, dd MMMM yyyy'
+    DateFormatKind = Long
+    Align = Top
+    Position.Y = 33.000000000000000000
+    Size.Width = 392.000000000000000000
+    Size.Height = 40.000000000000000000
+    Size.PlatformDefault = False
+    StyleLookup = 'DateEdit1Style1'
+    TabOrder = 1
+    TextSettings.HorzAlign = Center
+  end
+  object LblTgl1: TLabel
+    Align = Top
+    Position.Y = 73.000000000000000000
+    Size.Width = 392.000000000000000000
+    Size.Height = 24.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.HorzAlign = Center
+    Text = 'Format Tanggal:'
+    TabOrder = 6
+  end
+  object LblTgl2: TLabel
+    Align = Top
+    Position.Y = 137.000000000000000000
+    Size.Width = 392.000000000000000000
+    Size.Height = 24.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.HorzAlign = Center
+    TextSettings.VertAlign = Leading
+    Text = 'Pisah Tanggal Bulan Tahun'
+    TabOrder = 5
+  end
+  object Label3: TLabel
+    Align = Top
+    Position.Y = 161.000000000000000000
+    Size.Width = 392.000000000000000000
+    Size.Height = 32.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.HorzAlign = Center
+    TextSettings.VertAlign = Trailing
+    Text = 'Ubah Tanggal Bulan Waktu'
+    TabOrder = 4
+  end
+  object TxtTgl: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    Align = Top
+    TabOrder = 9
+    Text = '1'
+    Position.Y = 193.000000000000000000
+    Size.Width = 392.000000000000000000
+    Size.Height = 32.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object TxtThn: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    Align = Top
+    TabOrder = 8
+    Text = '2024'
+    Position.Y = 257.000000000000000000
+    Size.Width = 392.000000000000000000
+    Size.Height = 32.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object TxtBln: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    Align = Top
+    TabOrder = 7
+    Text = '12'
+    Position.Y = 225.000000000000000000
+    Size.Width = 392.000000000000000000
+    Size.Height = 32.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object BtnAmbil: TButton
+    Align = Top
+    Position.Y = 97.000000000000000000
+    Size.Width = 392.000000000000000000
+    Size.Height = 40.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = 'Ambil Tanggal'
+    OnClick = BtnAmbilClick
+  end
+  object BtnUbah: TButton
+    Align = Top
+    Position.Y = 289.000000000000000000
+    Size.Width = 392.000000000000000000
+    Size.Height = 40.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = 'Ubah Tanggal'
+    OnClick = BtnUbahClick
+  end
+end

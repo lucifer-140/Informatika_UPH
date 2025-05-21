@@ -1,0 +1,107 @@
+//---------------------------------------------------------------------------
+
+#include <fmx.h>
+#pragma hdrstop
+
+#include "Unit1.h"
+//---------------------------------------------------------------------------
+
+#pragma package(smart_init)
+#pragma resource "*.fmx"
+#pragma resource ("*.LgXhdpiPh.fmx", _PLAT_ANDROID)
+#pragma resource ("*.XLgXhdpiTb.fmx", _PLAT_ANDROID)
+#pragma resource ("*.Windows.fmx", _PLAT_MSWINDOWS)
+#pragma resource ("*.SmXhdpiPh.fmx", _PLAT_ANDROID)
+#pragma resource ("*.LgXhdpiTb.fmx", _PLAT_ANDROID)
+
+TForm1 *Form1;
+//---------------------------------------------------------------------------
+
+__fastcall TForm1::TForm1(TComponent* Owner)
+    : TForm(Owner)
+{
+    TxtPesanan->Lines->Add("Makanan:");
+    TxtPesanan->Lines->Add("-------------------");
+	TxtPesanan->Lines->Add("");
+    TxtPesanan->Lines->Add("Minuman:");
+    TxtPesanan->Lines->Add("-------------------");
+	TxtPesanan->Lines->Add("");
+}
+
+void __fastcall TForm1::ChkNasiChange(TObject *Sender)
+{
+	UpdateFoodItem("Nasi Putih", ChkNasi->IsChecked);
+}
+
+void __fastcall TForm1::ChkAyamChange(TObject *Sender)
+{
+	UpdateFoodItem("Ayam Goreng", ChkAyam->IsChecked);
+}
+
+void __fastcall TForm1::ChkSayurChange(TObject *Sender)
+{
+    UpdateFoodItem("Sayur", ChkSayur->IsChecked);
+}
+
+void __fastcall TForm1::RBAirChange(TObject *Sender)
+{
+    UpdateDrinkItem("Air Putih", RBAir->IsChecked);
+}
+
+void __fastcall TForm1::RBJusChange(TObject *Sender)
+{
+    UpdateDrinkItem("Jus", RBJus->IsChecked);
+}
+
+void __fastcall TForm1::RBKopiChange(TObject *Sender)
+{
+    UpdateDrinkItem("Kopi", RBKopi->IsChecked);
+}
+
+void __fastcall TForm1::BtnKosongkanClick(TObject *Sender)
+{
+    TxtPesanan->Lines->Clear();
+	TxtPesanan->Lines->Add("Makanan:");
+	TxtPesanan->Lines->Add("-------------------");
+	TxtPesanan->Lines->Add("");
+    TxtPesanan->Lines->Add("Minuman:");
+    TxtPesanan->Lines->Add("-------------------");
+	TxtPesanan->Lines->Add("");
+}
+
+void __fastcall TForm1::BtnPesanClick(TObject *Sender)
+{
+    ShowMessage("Pesanan telah dibuat!");
+}
+
+void __fastcall TForm1::UpdateFoodItem(String item, bool isChecked)
+{
+	int foodStartIndex = TxtPesanan->Lines->IndexOf("Makanan:") + 2;
+	int drinkStartIndex = TxtPesanan->Lines->IndexOf("Minuman:");
+
+    if (isChecked)
+    {
+		if (TxtPesanan->Lines->IndexOf(item) == -1)
+			TxtPesanan->Lines->Insert(foodStartIndex, item);
+    }
+    else
+    {
+		TxtPesanan->Lines->Delete(TxtPesanan->Lines->IndexOf(item));
+    }
+}
+
+void __fastcall TForm1::UpdateDrinkItem(String item, bool isChecked)
+{
+	int drinkStartIndex = TxtPesanan->Lines->IndexOf("Minuman:") + 2;
+
+    if (isChecked)
+    {
+		if (TxtPesanan->Lines->IndexOf(item) == -1)
+			TxtPesanan->Lines->Insert(drinkStartIndex, item);
+    }
+    else
+    {
+		TxtPesanan->Lines->Delete(TxtPesanan->Lines->IndexOf(item));
+    }
+}
+

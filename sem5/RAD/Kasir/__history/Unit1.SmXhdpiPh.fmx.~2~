@@ -1,0 +1,22 @@
+inherited Form1_SmXhdpiPh: TForm1_SmXhdpiPh
+  ClientHeight = 374
+  ClientWidth = 250
+  DesignerMasterStyle = 0
+  inherited Panel1: TPanel
+    inherited Label1: TLabel
+      Size.Width = 121.000000000000000000
+      Size.Height = 23.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+  inherited Panel2: TPanel
+    inherited Label2: TLabel
+      Size.Height = 23.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+  inherited TxtPesanan: TMemo
+    Viewport.Width = 304.000000000000000000
+    Viewport.Height = 264.000000000000000000
+  end
+end

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/01/11 14:47:59.084,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/01/11 14:47:59.193,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/01/11 16:25:40.202,C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Unit1.h=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2025/01/11 16:25:40.202,C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Unit1.fmx=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2025/01/11 16:25:40.202,C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Unit1.cpp=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/01/11 16:25:40.215,C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\LuasProjectPCH1.h=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/01/11 16:25:40.230,C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\LuasProject.cbproj=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2025/01/11 16:26:27.781,C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Luas\Unit1.cpp=C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Unit1.cpp</Transaction>
+    <Transaction>2025/01/11 16:26:27.781,C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Luas\Unit1.h=C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Unit1.h</Transaction>
+    <Transaction>2025/01/11 16:26:27.781,C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Luas\Unit1.fmx=C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Unit1.fmx</Transaction>
+    <Transaction>2025/01/11 16:26:27.790,C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Luas\LuasProjectPCH2.h=C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\LuasProjectPCH1.h</Transaction>
+    <Transaction>2025/01/11 16:26:27.803,C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Luas\LuasProject.cbproj=C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\LuasProject.cbproj</Transaction>
+    <Transaction>2025/01/11 16:26:40.151,C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Luas\Main.cpp=C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Luas\Unit1.cpp</Transaction>
+    <Transaction>2025/01/11 16:26:40.151,C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Luas\Main.fmx=C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Luas\Unit1.fmx</Transaction>
+    <Transaction>2025/01/11 16:26:40.151,C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Luas\Main.h=C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Luas\Unit1.h</Transaction>
+    <Transaction>2025/01/11 16:26:43.953,C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Luas\LuasProject.cbproj=C:\Users\LENOVO\My Digital Vault\Developer\Projects\RAD\Luas\LuasProject.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

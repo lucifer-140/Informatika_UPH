@@ -1,0 +1,9 @@
+inherited Form1_LgXhdpiTb: TForm1_LgXhdpiTb
+  ClientHeight = 830
+  ClientWidth = 480
+  DesignerMasterStyle = 3
+  inherited TxtPesanan: TMemo
+    Viewport.Width = 304.000000000000000000
+    Viewport.Height = 264.000000000000000000
+  end
+end

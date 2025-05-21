@@ -1,0 +1,106 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 776
+  ClientWidth = 320
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Panel1: TPanel
+    Position.X = 7.000000000000000000
+    Position.Y = 16.000000000000000000
+    Size.Width = 305.000000000000000000
+    Size.Height = 137.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    object Label1: TLabel
+      Position.X = 8.000000000000000000
+      Position.Y = 8.000000000000000000
+      Text = 'Pilih Makanan'
+      TabOrder = 1
+    end
+    object ChkNasi: TCheckBox
+      Position.X = 8.000000000000000000
+      Position.Y = 33.000000000000000000
+      TabOrder = 4
+      Text = 'Nasi Putih'
+    end
+    object ChkAyam: TCheckBox
+      Position.X = 8.000000000000000000
+      Position.Y = 60.000000000000000000
+      TabOrder = 3
+      Text = 'Ayam Goreng'
+    end
+    object ChkSayur: TCheckBox
+      Position.X = 8.000000000000000000
+      Position.Y = 87.000000000000000000
+      TabOrder = 2
+      Text = 'Sayur'
+    end
+  end
+  object Panel2: TPanel
+    Position.X = 8.000000000000000000
+    Position.Y = 161.000000000000000000
+    Size.Width = 305.000000000000000000
+    Size.Height = 137.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object Label2: TLabel
+      Position.X = 8.000000000000000000
+      Position.Y = 8.000000000000000000
+      Text = 'Pilih Minuman'
+      TabOrder = 1
+    end
+    object RBAir: TCheckBox
+      Position.X = 8.000000000000000000
+      Position.Y = 33.000000000000000000
+      TabOrder = 4
+      Text = 'Air Putih'
+    end
+    object RBJus: TCheckBox
+      Position.X = 8.000000000000000000
+      Position.Y = 60.000000000000000000
+      TabOrder = 3
+      Text = 'Jus'
+    end
+    object RBKopi: TCheckBox
+      Position.X = 8.000000000000000000
+      Position.Y = 87.000000000000000000
+      TabOrder = 2
+      Text = 'Kopi'
+    end
+  end
+  object BtnPesan: TButton
+    Position.X = 8.000000000000000000
+    Position.Y = 306.000000000000000000
+    Size.Width = 304.000000000000000000
+    Size.Height = 33.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 4
+    Text = 'Pesan'
+  end
+  object BtnKosongkan: TButton
+    Position.X = 8.000000000000000000
+    Position.Y = 347.000000000000000000
+    Size.Width = 304.000000000000000000
+    Size.Height = 33.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = 'Kosongkan'
+  end
+  object TxtPesanan: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    ReadOnly = True
+    Position.X = 8.000000000000000000
+    Position.Y = 388.000000000000000000
+    Size.Width = 304.000000000000000000
+    Size.Height = 264.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 5
+    Viewport.Width = 300.000000000000000000
+    Viewport.Height = 260.000000000000000000
+  end
+end

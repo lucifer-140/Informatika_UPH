@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/01/18 14:33:24.000.227,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/01/18 14:33:24.000.465,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/01/18 14:34:05.000.210,D:\proj mobile\New folder\Unit1.cpp=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/01/18 14:34:05.000.227,D:\proj mobile\New folder\pesananPCH1.h=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/01/18 14:34:05.000.251,D:\proj mobile\New folder\pesanan.cbproj=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2025/01/18 14:34:05.000.210,D:\proj mobile\New folder\Unit1.h=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2025/01/18 14:34:05.000.210,D:\proj mobile\New folder\Unit1.fmx=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2025/01/18 14:34:23.000.046,D:\proj mobile\New folder\source\Unit1.fmx=D:\proj mobile\New folder\Unit1.fmx</Transaction>
+    <Transaction>2025/01/18 14:34:23.000.046,D:\proj mobile\New folder\source\Unit1.cpp=D:\proj mobile\New folder\Unit1.cpp</Transaction>
+    <Transaction>2025/01/18 14:34:23.000.046,D:\proj mobile\New folder\source\Unit1.h=D:\proj mobile\New folder\Unit1.h</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="emulator-5554"/>
+	</ActiveMobileDevice>
+</BorlandProject>

@@ -1,0 +1,2 @@
+C:/Users/LENOVO/My Digital Vault/Developer/Projects/FlutterProjects/expense_tracker/android/app/.cxx/RelWithDebInfo/6x2ru2b4/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/My Digital Vault/Developer/Projects/FlutterProjects/expense_tracker/android/app/.cxx/RelWithDebInfo/6x2ru2b4/arm64-v8a/CMakeFiles/rebuild_cache.dir

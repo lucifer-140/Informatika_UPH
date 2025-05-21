@@ -1,0 +1,7 @@
+inherited Form1_Windows: TForm1_Windows
+  DesignerMasterStyle = 0
+  inherited TxtPesanan: TMemo
+    Viewport.Width = 304.000000000000000000
+    Viewport.Height = 264.000000000000000000
+  end
+end

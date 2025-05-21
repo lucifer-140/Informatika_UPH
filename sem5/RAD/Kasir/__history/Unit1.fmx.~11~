@@ -1,0 +1,129 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 664
+  ClientWidth = 324
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 3
+  object PMakanan: TPanel
+    Position.X = 7.000000000000000000
+    Position.Y = 16.000000000000000000
+    Size.Width = 305.000000000000000000
+    Size.Height = 137.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    object Label1: TLabel
+      Position.X = 8.000000000000000000
+      Position.Y = 8.000000000000000000
+      Size.Width = 153.000000000000000000
+      Size.Height = 23.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Pilih Makanan'
+      TabOrder = 1
+    end
+    object ChkNasi: TCheckBox
+      Position.X = 8.000000000000000000
+      Position.Y = 49.000000000000000000
+      TabOrder = 4
+      Text = 'Nasi Putih'
+      OnChange = ChkNasiChange
+    end
+    object ChkAyam: TCheckBox
+      Position.X = 8.000000000000000000
+      Position.Y = 76.000000000000000000
+      TabOrder = 3
+      Text = 'Ayam Goreng'
+      OnChange = ChkAyamChange
+    end
+    object ChkSayur: TCheckBox
+      Position.X = 8.000000000000000000
+      Position.Y = 103.000000000000000000
+      TabOrder = 2
+      Text = 'Sayur'
+      OnChange = ChkSayurChange
+    end
+  end
+  object PMinuman: TPanel
+    Position.X = 8.000000000000000000
+    Position.Y = 161.000000000000000000
+    Size.Width = 305.000000000000000000
+    Size.Height = 137.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object Label2: TLabel
+      Position.X = 8.000000000000000000
+      Position.Y = 8.000000000000000000
+      Size.Width = 152.000000000000000000
+      Size.Height = 23.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Pilih Minuman'
+      TabOrder = 1
+    end
+    object RBAir: TCheckBox
+      Position.X = 8.000000000000000000
+      Position.Y = 48.000000000000000000
+      Size.Width = 120.000000000000000000
+      Size.Height = 19.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 4
+      Text = 'Air Putih'
+      OnChange = RBAirChange
+    end
+    object RBJus: TCheckBox
+      Position.X = 8.000000000000000000
+      Position.Y = 75.000000000000000000
+      Size.Width = 120.000000000000000000
+      Size.Height = 19.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 3
+      Text = 'Jus'
+      OnChange = RBJusChange
+    end
+    object RBKopi: TCheckBox
+      Position.X = 8.000000000000000000
+      Position.Y = 102.000000000000000000
+      Size.Width = 120.000000000000000000
+      Size.Height = 19.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+      Text = 'Kopi'
+      OnChange = RBKopiChange
+    end
+  end
+  object BtnPesan: TButton
+    Position.X = 8.000000000000000000
+    Position.Y = 306.000000000000000000
+    Size.Width = 304.000000000000000000
+    Size.Height = 33.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 4
+    Text = 'Pesan'
+    OnClick = BtnPesanClick
+  end
+  object BtnKosongkan: TButton
+    Position.X = 8.000000000000000000
+    Position.Y = 347.000000000000000000
+    Size.Width = 304.000000000000000000
+    Size.Height = 33.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = 'Kosongkan'
+    OnClick = BtnKosongkanClick
+  end
+  object TxtPesanan: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    ReadOnly = True
+    Position.X = 8.000000000000000000
+    Position.Y = 388.000000000000000000
+    Size.Width = 304.000000000000000000
+    Size.Height = 264.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 5
+    Viewport.Width = 296.000000000000000000
+    Viewport.Height = 256.000000000000000000
+  end
+end

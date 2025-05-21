@@ -1,0 +1,24 @@
+inherited Form1_XLgXhdpiTb: TForm1_XLgXhdpiTb
+  ClientHeight = 1254
+  ClientWidth = 800
+  DesignerMasterStyle = 0
+  inherited Panel1: TPanel
+    Size.Width = 306.000000000000000000
+    inherited Label1: TLabel
+      Size.Width = 153.000000000000000000
+      Size.Height = 23.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+  inherited Panel2: TPanel
+    inherited Label2: TLabel
+      Size.Width = 152.000000000000000000
+      Size.Height = 23.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+  inherited TxtPesanan: TMemo
+    Viewport.Width = 304.000000000000000000
+    Viewport.Height = 264.000000000000000000
+  end
+end

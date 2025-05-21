@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/01/18 15:40:11.000.254,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/01/18 15:40:11.000.128,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/01/18 15:42:52.000.149,C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\proj mobile\New folder (2)\TanggalPCH1.h</Transaction>
+    <Transaction>2025/01/18 15:42:52.000.132,C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\proj mobile\New folder (2)\Unit1.fmx</Transaction>
+    <Transaction>2025/01/18 15:42:52.000.132,C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\proj mobile\New folder (2)\Unit1.cpp</Transaction>
+    <Transaction>2025/01/18 15:42:52.000.132,C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\proj mobile\New folder (2)\Unit1.h</Transaction>
+    <Transaction>2025/01/18 15:42:52.000.174,C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\proj mobile\New folder (2)\Tanggal.cbproj</Transaction>
+    <Transaction>2025/01/18 15:43:01.000.032,D:\proj mobile\New folder (2)\Unit1.fmx=D:\proj mobile\New folder (2)\Source\Unit1.fmx</Transaction>
+    <Transaction>2025/01/18 15:43:01.000.032,D:\proj mobile\New folder (2)\Unit1.cpp=D:\proj mobile\New folder (2)\Source\Unit1.cpp</Transaction>
+    <Transaction>2025/01/18 15:43:01.000.032,D:\proj mobile\New folder (2)\Unit1.h=D:\proj mobile\New folder (2)\Source\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>

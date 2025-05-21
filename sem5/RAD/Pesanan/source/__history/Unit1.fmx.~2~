@@ -1,0 +1,130 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 556
+  ClientWidth = 304
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Panel1: TPanel
+    Align = Top
+    Size.Width = 304.000000000000000000
+    Size.Height = 297.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object Label1: TLabel
+      Position.X = 44.000000000000000000
+      Position.Y = 26.000000000000000000
+      Size.Width = 120.000000000000000000
+      Size.Height = 18.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Jumlah'
+      TabOrder = 2
+    end
+    object Label2: TLabel
+      Position.X = 44.000000000000000000
+      Position.Y = 59.000000000000000000
+      Size.Width = 120.000000000000000000
+      Size.Height = 17.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Posisi'
+      TabOrder = 1
+    end
+    object Label3: TLabel
+      Position.X = 44.000000000000000000
+      Position.Y = 95.000000000000000000
+      Text = 'Data'
+      TabOrder = 0
+    end
+    object TxtJlh: TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 5
+      Text = '0'
+      Position.X = 148.000000000000000000
+      Position.Y = 22.000000000000000000
+    end
+    object TxtData: TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 4
+      Position.X = 148.000000000000000000
+      Position.Y = 90.000000000000000000
+    end
+    object TxtPos: TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 3
+      Text = '0'
+      Position.X = 148.000000000000000000
+      Position.Y = 57.000000000000000000
+    end
+    object BtnTambah: TButton
+      Position.X = 40.000000000000000000
+      Position.Y = 152.000000000000000000
+      TabOrder = 9
+      Text = 'Tambah'
+      OnClick = BtnTambahClick
+    end
+    object BtnUbah: TButton
+      Position.X = 40.000000000000000000
+      Position.Y = 216.000000000000000000
+      TabOrder = 8
+      Text = 'Ubah'
+    end
+    object BtnHapus: TButton
+      Position.X = 176.000000000000000000
+      Position.Y = 216.000000000000000000
+      TabOrder = 7
+      Text = 'Hapus'
+    end
+    object BtnSisip: TButton
+      Position.X = 176.000000000000000000
+      Position.Y = 152.000000000000000000
+      TabOrder = 6
+      Text = 'Sisip'
+      OnClick = BtnSisipClick
+    end
+  end
+  object Lst: TListBox
+    Align = Client
+    Size.Width = 304.000000000000000000
+    Size.Height = 237.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    OnClick = LstClick
+    DisableFocusEffect = True
+    DefaultItemStyles.ItemStyle = ''
+    DefaultItemStyles.GroupHeaderStyle = ''
+    DefaultItemStyles.GroupFooterStyle = ''
+    Viewport.Width = 300.000000000000000000
+    Viewport.Height = 233.000000000000000000
+    object ListBoxItem1: TListBoxItem
+      TabOrder = 0
+      Text = 'Xing Fu Tang'
+    end
+    object ListBoxItem2: TListBoxItem
+      Position.Y = 19.000000000000000000
+      TabOrder = 1
+      Text = 'Shin Lin'
+    end
+    object ListBoxItem3: TListBoxItem
+      Position.Y = 38.000000000000000000
+      TabOrder = 2
+      Text = 'Mixue'
+    end
+  end
+  object Cmb: TComboBox
+    Align = Bottom
+    Items.Strings = (
+      'Xing Fu Tang'
+      'Shi Lin'
+      'Mixue')
+    ListBoxResource = 'tes'
+    Position.Y = 534.000000000000000000
+    Size.Width = 304.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    OnChange = CmbChange
+  end
+end

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/tvShortDate2"
+        android:layout_width="match_parent"
+        android:layout_height="109dp"
+        android:gravity="center"
+        android:padding="8dp"
+        android:text="" />
+
+    <Spinner
+        android:id="@+id/spinnerDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnAmbilTanggal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ambil Tanggal" />
+
+    <TextView
+        android:id="@+id/tvFormattedDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Format Tanggal:\nPisah Tanggal Bulan Tahun"
+        android:gravity="center"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/tvShortDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:gravity="center"
+        android:padding="8dp" />
+
+    <EditText
+        android:id="@+id/etDay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="DD"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/etMonth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="MM"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/etYear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="YYYY"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/btnUpdateDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ubah Tanggal" />
+</LinearLayout>

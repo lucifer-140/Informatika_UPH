@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unit1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.fmx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unit1.fmx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unit1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\KasirPCH1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KasirPCH1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Kasir.cbproj.local||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kasir.cbproj.local||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Kasir.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kasir.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.iPhone.fmx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unit1.iPhone.fmx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.iPhone55in.fmx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unit1.iPhone55in.fmx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.XLgXhdpiTb.fmx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Unit1.XLgXhdpiTb.fmx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Kasir.cbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kasir.cbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kasir.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Kasir.cpp",
+              "RelativeDocumentMoniker": "Kasir.cpp",
+              "ToolTip": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Kasir.cpp",
+              "RelativeToolTip": "Kasir.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-13T05:46:08.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KasirPCH1.h",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\KasirPCH1.h",
+              "RelativeDocumentMoniker": "KasirPCH1.h",
+              "ToolTip": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\KasirPCH1.h",
+              "RelativeToolTip": "KasirPCH1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-13T05:46:07.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Unit1.iPhone.fmx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.iPhone.fmx",
+              "RelativeDocumentMoniker": "Unit1.iPhone.fmx",
+              "ToolTip": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.iPhone.fmx",
+              "RelativeToolTip": "Unit1.iPhone.fmx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQISURBVEhLrZZrbBRVFMd/s9t2dwulaWkFjEXBIAkvLcZGNDyCCdSA1WqiGIIxBEmMxA8a/aKAiaKCIQEkhoSAEaJBXgUiyisFtVgQBETBFq2yttAidGlnu4953Hv8wO7SodsCxn9yMjMnd\u002B7v3HPOvTOGiKC15v\u002BUYRgA\u002BAxDDBHhvedX6GjERGuNiKBEXYNq0FqjRCNao0WhRKNV6qoVWiuUVmjRKK2pqKjgzfULfBmYiPDa1IW6evJzOMrBdizuqxxKwaB8RKDui2OMqxzJN2tqSToJps2dwvmGZn45eobckJ\u002BiwYX89N0pHOWglMvFtlb2/bUjA/ABaK2wLAvLskhaSfoPCbJ3ZR27lu\u002BnNdzK8Al3Mf6p0cx\u002Bt5o7RhQTLMpF8jT\u002BfB/BwjwSToKkncByrfS8GWVIACKCIIjAvY\u002BUUTq8GAQ6L0dxLcX2VV8DsGdjLS8veZHq\u002BTM4WFMHAtey3lMZgHj9RK/EsLquR3Tm\u002B0Y6LnUC8HDleGrW7ObbHYcpnzQOUu9ng3hWkB5gxx0uNV7B/KcLgEQ0SeflKI7lEo8mKCjqz9\u002BNLbSGL9G/sB\u002BkADcGSbrIc8rn69HD7kdpF0e5KKVQ2sVVDq5yUwVUuDr1rJ1rneTpIAUIsa44\u002B87v9HbRh\u002B8s01VVVV70f5BjN7Dsoy00XWjyAtauXavnzXsciPWRzZurJRzm0MYjvLBosbdNRbJl7/YkAva5dny/N3n8niL3VG\u002Bl66krJ8M0rt5EuGQgx\u002Bvri6ZPm\u002Bbn5gCj73SJoOIWbfuP8cMrb1Eys4IT4fOU\u002Bf1ztq5fN5XsAOOWo3bNLpo3bODUosWMWTCbgZNHkZPjJ/bn2RnO1fa7SQPSp9\u002BtTgwg2sfVLeto2bqZoVUzGfbsdHx5fiaMHUXX2aOlwUFDfib7Crp3UfYaiIBzeA8dB3YQCOVS9vQTGD4IxoUpF\u002BqQkpJfq2bN6g3QPUVZaiCgk5rooV1oI5f8kKZz9yYiO2uIf7oa8QkNgdI1B2oP2mQH9Iy4uwQDNxKj/bcEOT4/\u002BSHBPrkPc9sn\u002BLva\u002BLFsIvPfeLs\u002BPT61DxRaxTHNDkzzasoi3e69FrdtOloDiG0QCEIw5CMwIB957En2HjtNp2lmojREhKVLP9CBgEkkYqb9HhmGkdmMhmEQyAlRfrqN4rYj3DPGwRCXjuKR7O73AO2JIEuWvO89KizL6tfXd7mgoOBGF/Wbt85tW7Z85YihzQwuTZJT\u002BfrOV7ecfOnzL7clbNuOpcf5APLy8mLBYLBXU0r1sIpnqj\u002BOTJq4sMX/0MULkQEqee742LF3Fj6oXDfuiST9V9GX9aaiwsLgxhWrHm2s2Vb7x2erXPNE7Vf5oVBu9zHGrRx01zfi7etfuMJfWcFJfQUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-13T05:46:05.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unit1.h",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.h",
+              "RelativeDocumentMoniker": "Unit1.h",
+              "ToolTip": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.h",
+              "RelativeToolTip": "Unit1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-13T05:45:57.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kasir.cbproj.local",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Kasir.cbproj.local",
+              "RelativeDocumentMoniker": "Kasir.cbproj.local",
+              "ToolTip": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Kasir.cbproj.local",
+              "RelativeToolTip": "Kasir.cbproj.local",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-13T05:45:53.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Unit1.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.cpp",
+              "RelativeDocumentMoniker": "Unit1.cpp",
+              "ToolTip": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.cpp",
+              "RelativeToolTip": "Unit1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-13T05:45:55.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unit1.fmx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.fmx",
+              "RelativeDocumentMoniker": "Unit1.fmx",
+              "ToolTip": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.fmx",
+              "RelativeToolTip": "Unit1.fmx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQISURBVEhLrZZrbBRVFMd/s9t2dwulaWkFjEXBIAkvLcZGNDyCCdSA1WqiGIIxBEmMxA8a/aKAiaKCIQEkhoSAEaJBXgUiyisFtVgQBETBFq2yttAidGlnu4953Hv8wO7SodsCxn9yMjMnd\u002B7v3HPOvTOGiKC15v\u002BUYRgA\u002BAxDDBHhvedX6GjERGuNiKBEXYNq0FqjRCNao0WhRKNV6qoVWiuUVmjRKK2pqKjgzfULfBmYiPDa1IW6evJzOMrBdizuqxxKwaB8RKDui2OMqxzJN2tqSToJps2dwvmGZn45eobckJ\u002BiwYX89N0pHOWglMvFtlb2/bUjA/ABaK2wLAvLskhaSfoPCbJ3ZR27lu\u002BnNdzK8Al3Mf6p0cx\u002Bt5o7RhQTLMpF8jT\u002BfB/BwjwSToKkncByrfS8GWVIACKCIIjAvY\u002BUUTq8GAQ6L0dxLcX2VV8DsGdjLS8veZHq\u002BTM4WFMHAtey3lMZgHj9RK/EsLquR3Tm\u002B0Y6LnUC8HDleGrW7ObbHYcpnzQOUu9ng3hWkB5gxx0uNV7B/KcLgEQ0SeflKI7lEo8mKCjqz9\u002BNLbSGL9G/sB\u002BkADcGSbrIc8rn69HD7kdpF0e5KKVQ2sVVDq5yUwVUuDr1rJ1rneTpIAUIsa44\u002B87v9HbRh\u002B8s01VVVV70f5BjN7Dsoy00XWjyAtauXavnzXsciPWRzZurJRzm0MYjvLBosbdNRbJl7/YkAva5dny/N3n8niL3VG\u002Bl66krJ8M0rt5EuGQgx\u002Bvri6ZPm\u002Bbn5gCj73SJoOIWbfuP8cMrb1Eys4IT4fOU\u002Bf1ztq5fN5XsAOOWo3bNLpo3bODUosWMWTCbgZNHkZPjJ/bn2RnO1fa7SQPSp9\u002BtTgwg2sfVLeto2bqZoVUzGfbsdHx5fiaMHUXX2aOlwUFDfib7Crp3UfYaiIBzeA8dB3YQCOVS9vQTGD4IxoUpF\u002BqQkpJfq2bN6g3QPUVZaiCgk5rooV1oI5f8kKZz9yYiO2uIf7oa8QkNgdI1B2oP2mQH9Iy4uwQDNxKj/bcEOT4/\u002BSHBPrkPc9sn\u002BLva\u002BLFsIvPfeLs\u002BPT61DxRaxTHNDkzzasoi3e69FrdtOloDiG0QCEIw5CMwIB957En2HjtNp2lmojREhKVLP9CBgEkkYqb9HhmGkdmMhmEQyAlRfrqN4rYj3DPGwRCXjuKR7O73AO2JIEuWvO89KizL6tfXd7mgoOBGF/Wbt85tW7Z85YihzQwuTZJT\u002BfrOV7ecfOnzL7clbNuOpcf5APLy8mLBYLBXU0r1sIpnqj\u002BOTJq4sMX/0MULkQEqee742LF3Fj6oXDfuiST9V9GX9aaiwsLgxhWrHm2s2Vb7x2erXPNE7Vf5oVBu9zHGrRx01zfi7etfuMJfWcFJfQUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-13T05:45:56.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Unit1.iPhone55in.fmx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.iPhone55in.fmx",
+              "RelativeDocumentMoniker": "Unit1.iPhone55in.fmx",
+              "ToolTip": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.iPhone55in.fmx",
+              "RelativeToolTip": "Unit1.iPhone55in.fmx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQISURBVEhLrZZrbBRVFMd/s9t2dwulaWkFjEXBIAkvLcZGNDyCCdSA1WqiGIIxBEmMxA8a/aKAiaKCIQEkhoSAEaJBXgUiyisFtVgQBETBFq2yttAidGlnu4953Hv8wO7SodsCxn9yMjMnd\u002B7v3HPOvTOGiKC15v\u002BUYRgA\u002BAxDDBHhvedX6GjERGuNiKBEXYNq0FqjRCNao0WhRKNV6qoVWiuUVmjRKK2pqKjgzfULfBmYiPDa1IW6evJzOMrBdizuqxxKwaB8RKDui2OMqxzJN2tqSToJps2dwvmGZn45eobckJ\u002BiwYX89N0pHOWglMvFtlb2/bUjA/ABaK2wLAvLskhaSfoPCbJ3ZR27lu\u002BnNdzK8Al3Mf6p0cx\u002Bt5o7RhQTLMpF8jT\u002BfB/BwjwSToKkncByrfS8GWVIACKCIIjAvY\u002BUUTq8GAQ6L0dxLcX2VV8DsGdjLS8veZHq\u002BTM4WFMHAtey3lMZgHj9RK/EsLquR3Tm\u002B0Y6LnUC8HDleGrW7ObbHYcpnzQOUu9ng3hWkB5gxx0uNV7B/KcLgEQ0SeflKI7lEo8mKCjqz9\u002BNLbSGL9G/sB\u002BkADcGSbrIc8rn69HD7kdpF0e5KKVQ2sVVDq5yUwVUuDr1rJ1rneTpIAUIsa44\u002B87v9HbRh\u002B8s01VVVV70f5BjN7Dsoy00XWjyAtauXavnzXsciPWRzZurJRzm0MYjvLBosbdNRbJl7/YkAva5dny/N3n8niL3VG\u002Bl66krJ8M0rt5EuGQgx\u002Bvri6ZPm\u002Bbn5gCj73SJoOIWbfuP8cMrb1Eys4IT4fOU\u002Bf1ztq5fN5XsAOOWo3bNLpo3bODUosWMWTCbgZNHkZPjJ/bn2RnO1fa7SQPSp9\u002BtTgwg2sfVLeto2bqZoVUzGfbsdHx5fiaMHUXX2aOlwUFDfib7Crp3UfYaiIBzeA8dB3YQCOVS9vQTGD4IxoUpF\u002BqQkpJfq2bN6g3QPUVZaiCgk5rooV1oI5f8kKZz9yYiO2uIf7oa8QkNgdI1B2oP2mQH9Iy4uwQDNxKj/bcEOT4/\u002BSHBPrkPc9sn\u002BLva\u002BLFsIvPfeLs\u002BPT61DxRaxTHNDkzzasoi3e69FrdtOloDiG0QCEIw5CMwIB957En2HjtNp2lmojREhKVLP9CBgEkkYqb9HhmGkdmMhmEQyAlRfrqN4rYj3DPGwRCXjuKR7O73AO2JIEuWvO89KizL6tfXd7mgoOBGF/Wbt85tW7Z85YihzQwuTZJT\u002BfrOV7ecfOnzL7clbNuOpcf5APLy8mLBYLBXU0r1sIpnqj\u002BOTJq4sMX/0MULkQEqee742LF3Fj6oXDfuiST9V9GX9aaiwsLgxhWrHm2s2Vb7x2erXPNE7Vf5oVBu9zHGrRx01zfi7etfuMJfWcFJfQUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-13T05:46:04.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Unit1.XLgXhdpiTb.fmx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.XLgXhdpiTb.fmx",
+              "RelativeDocumentMoniker": "Unit1.XLgXhdpiTb.fmx",
+              "ToolTip": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Unit1.XLgXhdpiTb.fmx",
+              "RelativeToolTip": "Unit1.XLgXhdpiTb.fmx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQISURBVEhLrZZrbBRVFMd/s9t2dwulaWkFjEXBIAkvLcZGNDyCCdSA1WqiGIIxBEmMxA8a/aKAiaKCIQEkhoSAEaJBXgUiyisFtVgQBETBFq2yttAidGlnu4953Hv8wO7SodsCxn9yMjMnd\u002B7v3HPOvTOGiKC15v\u002BUYRgA\u002BAxDDBHhvedX6GjERGuNiKBEXYNq0FqjRCNao0WhRKNV6qoVWiuUVmjRKK2pqKjgzfULfBmYiPDa1IW6evJzOMrBdizuqxxKwaB8RKDui2OMqxzJN2tqSToJps2dwvmGZn45eobckJ\u002BiwYX89N0pHOWglMvFtlb2/bUjA/ABaK2wLAvLskhaSfoPCbJ3ZR27lu\u002BnNdzK8Al3Mf6p0cx\u002Bt5o7RhQTLMpF8jT\u002BfB/BwjwSToKkncByrfS8GWVIACKCIIjAvY\u002BUUTq8GAQ6L0dxLcX2VV8DsGdjLS8veZHq\u002BTM4WFMHAtey3lMZgHj9RK/EsLquR3Tm\u002B0Y6LnUC8HDleGrW7ObbHYcpnzQOUu9ng3hWkB5gxx0uNV7B/KcLgEQ0SeflKI7lEo8mKCjqz9\u002BNLbSGL9G/sB\u002BkADcGSbrIc8rn69HD7kdpF0e5KKVQ2sVVDq5yUwVUuDr1rJ1rneTpIAUIsa44\u002B87v9HbRh\u002B8s01VVVV70f5BjN7Dsoy00XWjyAtauXavnzXsciPWRzZurJRzm0MYjvLBosbdNRbJl7/YkAva5dny/N3n8niL3VG\u002Bl66krJ8M0rt5EuGQgx\u002Bvri6ZPm\u002Bbn5gCj73SJoOIWbfuP8cMrb1Eys4IT4fOU\u002Bf1ztq5fN5XsAOOWo3bNLpo3bODUosWMWTCbgZNHkZPjJ/bn2RnO1fa7SQPSp9\u002BtTgwg2sfVLeto2bqZoVUzGfbsdHx5fiaMHUXX2aOlwUFDfib7Crp3UfYaiIBzeA8dB3YQCOVS9vQTGD4IxoUpF\u002BqQkpJfq2bN6g3QPUVZaiCgk5rooV1oI5f8kKZz9yYiO2uIf7oa8QkNgdI1B2oP2mQH9Iy4uwQDNxKj/bcEOT4/\u002BSHBPrkPc9sn\u002BLva\u002BLFsIvPfeLs\u002BPT61DxRaxTHNDkzzasoi3e69FrdtOloDiG0QCEIw5CMwIB957En2HjtNp2lmojREhKVLP9CBgEkkYqb9HhmGkdmMhmEQyAlRfrqN4rYj3DPGwRCXjuKR7O73AO2JIEuWvO89KizL6tfXd7mgoOBGF/Wbt85tW7Z85YihzQwuTZJT\u002BfrOV7ecfOnzL7clbNuOpcf5APLy8mLBYLBXU0r1sIpnqj\u002BOTJq4sMX/0MULkQEqee742LF3Fj6oXDfuiST9V9GX9aaiwsLgxhWrHm2s2Vb7x2erXPNE7Vf5oVBu9zHGrRx01zfi7etfuMJfWcFJfQUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-13T05:46:02.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Kasir.cbproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Kasir.cbproj",
+              "RelativeDocumentMoniker": "Kasir.cbproj",
+              "ToolTip": "C:\\Users\\LENOVO\\My Digital Vault\\Developer\\Projects\\RAD\\Kasir\\Kasir.cbproj",
+              "RelativeToolTip": "Kasir.cbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-13T05:45:50.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

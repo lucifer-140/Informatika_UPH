@@ -1,0 +1,87 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 268
+  ClientWidth = 540
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object SB: TScrollBar
+    Align = Top
+    SmallChange = 0.000000000000000000
+    Orientation = Horizontal
+    Size.Width = 540.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+  end
+  object PBS: TProgressBar
+    Align = Top
+    Orientation = Horizontal
+    Position.Y = 69.000000000000000000
+    Size.Width = 540.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object TB: TTrackBar
+    Align = Top
+    CanParentFocus = True
+    Orientation = Horizontal
+    Position.Y = 50.000000000000000000
+    Size.Width = 540.000000000000000000
+    Size.Height = 19.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+  end
+  object PBT: TProgressBar
+    Align = Top
+    Orientation = Horizontal
+    Position.Y = 25.000000000000000000
+    Size.Width = 540.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object LblSB: TLabel
+    Position.X = 32.000000000000000000
+    Position.Y = 120.000000000000000000
+    Text = 'LblSB'
+    TabOrder = 5
+  end
+  object LblTB: TLabel
+    Position.X = 420.000000000000000000
+    Position.Y = 120.000000000000000000
+    Text = 'LblTB'
+    TabOrder = 6
+  end
+  object BtnStart: TButton
+    Position.X = 32.000000000000000000
+    Position.Y = 192.000000000000000000
+    TabOrder = 10
+    Text = 'Start'
+  end
+  object BtnStop: TButton
+    Position.X = 216.000000000000000000
+    Position.Y = 192.000000000000000000
+    TabOrder = 9
+    Text = 'Stop'
+  end
+  object BtnReset: TButton
+    Position.X = 400.000000000000000000
+    Position.Y = 192.000000000000000000
+    TabOrder = 8
+    Text = 'Reset'
+  end
+  object PB: TProgressBar
+    Orientation = Horizontal
+    Position.Y = 234.000000000000000000
+    Size.Width = 540.000000000000000000
+    Size.Height = 26.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Timer: TTimer
+    Left = 240
+    Top = 120
+  end
+end
