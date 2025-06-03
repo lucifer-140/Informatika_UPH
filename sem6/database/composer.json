@@ -1,0 +1,17 @@
+{
+    "name": "uph/database",
+    "autoload": {
+        "psr-4": {
+            "Uph\\Database\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lucifer-140",
+            "email": "davejansen140@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.21"
+    }
+}
