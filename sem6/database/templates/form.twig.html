@@ -1,0 +1,48 @@
+<html>
+<head>
+    <title>{{ taskDetails.id ? 'Edit Task' : 'New Task' }}</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-900">
+<div class="container mx-auto my-8 p-6 bg-white shadow-md rounded">
+    <h1 class="text-2xl font-bold mb-6">
+        {{ taskDetails.id ? 'Edit Task' : 'New Task' }}
+    </h1>
+
+    <form method="post" action="{{ taskDetails.id ? 'edit.php' : 'store.php' }}">
+        {% if taskDetails.id %}
+        <input type="hidden" name="edit_id" value="{{ taskDetails.id }}">
+        {% endif %}
+        <div class="mb-4">
+            <label for="task" class="block text-sm font-medium text-gray-700">Task:</label>
+            <input type="text" id="task" name="task" value="{{ taskDetails.task }}"
+                   class="mt-1 block w-full border border-gray-300 rounded py-2 px-3"
+                   required>
+        </div>
+        <div class="mb-4">
+            <label for="status" class="block text-sm font-medium text-gray-700">Status:</label>
+            <select id="status" name="status"
+                    class="mt-1 block w-full border border-gray-300 rounded py-2 px-3"
+                    required>
+                <option value="todo" {% if taskDetails.status == 'todo' %}selected{% endif %}>To do</option>
+                <option value="inProgress" {% if taskDetails.status == 'inProgress' %}selected{% endif %}>In Progress</option>
+                <option value="done" {% if taskDetails.status == 'done' %}selected{% endif %}>Done</option>
+            </select>
+        </div>
+        <button type="submit"
+                class="bg-green-500 text-white py-2 px-4 rounded hover:bg-green-600">
+            {{ taskDetails.id ? 'Update Task' : 'Add Task' }}
+        </button>
+    </form>
+
+    <div class="mt-6">
+        <form action="list.php" method="get">
+            <button type="submit"
+                    class="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">
+                Back to List
+            </button>
+        </form>
+    </div>
+</div>
+</body>
+</html>
