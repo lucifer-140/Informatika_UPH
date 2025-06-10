@@ -1,0 +1,11 @@
+.form-label {
+    font-weight: bold;
+}
+.table th, .table td {
+    vertical-align: middle;
+    text-align: center;
+}
+.table {
+    table-layout: fixed;
+    width: 100%;
+}

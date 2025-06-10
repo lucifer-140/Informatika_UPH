@@ -20,7 +20,7 @@
                    class="form-control"
                    required>
         </div>
-        <div class="mb-3">
+        <div class="mb-5">
             <label for="status" class="form-label">Status:</label>
             <select id="status" name="status" class="form-select" required>
                 <option value="todo" {% if taskDetails.status == 'todo' %}selected{% endif %}>To do</option>
@@ -28,18 +28,24 @@
                 <option value="done" {% if taskDetails.status == 'done' %}selected{% endif %}>Done</option>
             </select>
         </div>
-        <button type="submit" class="btn btn-success">
-            {{ taskDetails.id ? 'Update Task' : 'Add Task' }}
-        </button>
+        <div class="mt-3 d-flex align-items-center gap-3">
+            <form method="post" action="{{ taskDetails.id ? 'edit.php' : 'store.php' }}" class="m-0">
+                {% if taskDetails.id %}
+                <input type="hidden" name="edit_id" value="{{ taskDetails.id }}">
+                {% endif %}
+                <button type="submit" class="btn btn-success">
+                    {{ taskDetails.id ? 'Update Task' : 'Add Task' }}
+                </button>
+            </form>
+
+            <form action="list.php" method="get" class="m-0">
+                <button type="submit" class="btn btn-primary">
+                    Back to List
+                </button>
+            </form>
+        </div>
     </form>
 
-    <div class="mt-3">
-        <form action="list.php" method="get">
-            <button type="submit" class="btn btn-primary">
-                Back to List
-            </button>
-        </form>
-    </div>
 </div>
 </body>
 </html>
