@@ -17,3 +17,4 @@ class TwigInstance {
         return self::$twig;
     }
 }
+
