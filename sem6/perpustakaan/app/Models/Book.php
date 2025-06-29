@@ -3,6 +3,7 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 
 class Book extends Model{
 
@@ -15,7 +16,15 @@ class Book extends Model{
         'category',
         'isbn',
         'excerpt',
+        'cover_image_path',
 
     ];
+
+    public function borrowingUsers(): BelongsToMany
+    {
+        return $this->belongsToMany(User::class, 'book_user')
+            ->withTimestamps()
+            ->withPivot(['borrowed_date', 'returned_date']);
+    }
 
 }
